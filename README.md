@@ -51,4 +51,5 @@ A simple interactive shell script to manage your favorite directories and quickl
 source favdir.sh
 ```
 ## License
-favdir.sh is Licensed under the MIT License whih can be found in LICENSE
+This project is licensed under the MIT License.
+
