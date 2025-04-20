@@ -30,7 +30,7 @@ A simple interactive shell script to manage your favorite directories and quickl
    ```
    3. (Optional) Add an alias to your .bashrc or .zshrc:
    ```
-   alias favdir='bash ~/favdir.sh'
+   alias favdir='source ~/favdir.sh'
    ```
    ## Usage
    ```
